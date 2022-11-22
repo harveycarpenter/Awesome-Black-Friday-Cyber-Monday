@@ -103,6 +103,7 @@ Don't forget to:
 |  💰 | [NowButtons](https://nowbuttons.com?utm_source=tdinh) | NowButtons is the tool for creating floating action buttons for your website. Pick from popular communication channels such as phone, sms, WhatsApp, etc. With our slide-in Content Windows you easily embed 3rd party booking forms or other content into your web pages. Schedule your buttons to appear at the right times and use geo and page rules to show the right button to the right audience. | 40% OFF the annual plan for the first year. Use code *BLACKFRIDAY* |
 |  🤑 | [Validate.run](https://validate.run?ref=black-friday-repo) | Is your idea worth building? - Create high-converting landing pages with design templates and our in-app copywriting guide in minutes and find out | Get **50%** off the monthly plan **forever** - apply **BLACK-FRIDAY-22** at checkout when upgrading to paid|
 |  🤑 | [Easy-Peasy.AI](https://easy-peasy.ai?utm_source=tdinh) | Easy-Peasy.AI is a powerful AI Content Assistant that can help you write better content, generate new business ideas, reply to and compose emails and messages, and many more. | Get **40%** off the monthly plan **forever** - apply **40OFF** at Stripe checkout page|
+|  💰 | [Growform](https://www.growform.co) | Growform is the form builder that gets you more leads. Build beautiful, responsive forms in minutes. | Get **40%** off all plans **forever** - sign up, then use code **BLACKFRI40** at upgrade page|
 
 ## 🚀 Startup SaaS/Tools
 |  | Name | Description | Discount Code & Terms |
@@ -165,7 +166,6 @@ Don't forget to:
 |  💰 | [Flutter Foundations Course](https://codewithandrea.com/courses/complete-flutter-bundle/) | Learn about State Management, App Architecture, Navigation, Testing, and much more by building a full-stack Flutter eCommerce app on iOS, Android, and web. | 33% OFF, automatically applied |
 |  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
-|  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
 
 
 ## 👨‍🎨 Miscellaneous
